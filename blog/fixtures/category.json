@@ -1,0 +1,1 @@
+[{"model": "blog.category", "pk": 1, "fields": {"title": "Lifestyle", "slug": "lifestyle"}}, {"model": "blog.category", "pk": 2, "fields": {"title": "Food", "slug": "food"}}, {"model": "blog.category", "pk": 3, "fields": {"title": "Nature", "slug": "nature"}}, {"model": "blog.category", "pk": 4, "fields": {"title": "Photography", "slug": "photography"}}]
